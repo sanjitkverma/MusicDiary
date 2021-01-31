@@ -24,6 +24,11 @@ Built With CSS3, FastAPI, HTML5, Javascript, Python and Spotify API
 
 
 ## Creators:
-Zachary Wilson @ZTW21
-Will Johnson   @WillMJ
-Sanjit Verma   @sanjitkverma
+Zachary Wilson 
+Github:@ZTW21
+
+Will Johnson
+Github:@WillMJ
+
+Sanjit Verma   
+Github:@sanjitkverma
